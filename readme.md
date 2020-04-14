@@ -16,4 +16,4 @@ right image
 
 result
 ------
-![Alt text](depth with opening filter.png)
+![Alt text](depth_with_opening_filter.png)
